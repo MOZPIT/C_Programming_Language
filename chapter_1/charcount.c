@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* count characters in input; 1st version */
+/* count characters in input; 1st version 22 */
 int main()
 {
 	long nc;
